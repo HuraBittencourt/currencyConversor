@@ -1,0 +1,47 @@
+header{
+    display: flex;
+}
+
+.container{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+
+#header-container{
+    width: 100%;
+    display: flex;
+    background-color: gray;
+}
+
+.left-header-element{
+    display: flex;
+}
+
+#left-header-element{
+
+}
+
+#left-header-element img{
+    width: 60px;
+}
+
+.main-right{
+    width: 60%;
+}
+
+.conversor{
+    display: flex;
+    flex-direction: column;
+    background: gainsboro;
+    padding: 10px;
+}
+
+#dropdownMenuLink{
+    width: 100%;
+}
+
+.btn-lg{
+    margin-top: 10px;
+    background-color: forestgreen;
+}
